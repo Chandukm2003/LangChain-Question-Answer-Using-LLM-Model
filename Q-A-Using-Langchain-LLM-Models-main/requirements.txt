@@ -1,0 +1,16 @@
+
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+dash
+dash-bootstrap-components
+langchain-community
+beautifulsoup4
+graphviz
+spacy
+textblob
+googletrans
